@@ -1,0 +1,16 @@
+﻿Build started 12/7/2017 12:57:27 AM.
+     1>Project "D:\PC Data\Lewis University\Videogame Programming\Asteroids\Sources\PC\Asteroids.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\SDmount\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\PC Data\Lewis University\Videogame Programming\Asteroids\Sources\PC\Debug\SimpleMenusD.exe" /INCREMENTAL /NOLOGO /LIBPATH:/PC FrogPCVS2013D.lib OtherLibrariesPCVS2013D.lib opengl32.lib openal32.lib winmm.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\PC Data\Lewis University\Videogame Programming\Asteroids\Sources\PC\Debug\SimpleMenusD.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\PC Data\Lewis University\Videogame Programming\Asteroids\Sources\PC\Debug\SimpleMenusD.lib" /MACHINE:X86 Debug\resource.res
+         Debug\MainGame.obj
+         Debug\MainMenu.obj
+         Debug\MainUpdate.obj
+         Debug\MenuState.obj
+         Debug\MainPC.obj
+            Creating library D:\PC Data\Lewis University\Videogame Programming\Asteroids\Sources\PC\Debug\SimpleMenusD.lib and object D:\PC Data\Lewis University\Videogame Programming\Asteroids\Sources\PC\Debug\SimpleMenusD.exp
+         Asteroids.vcxproj -> D:\PC Data\Lewis University\Videogame Programming\Asteroids\Sources\PC\Debug\SimpleMenusD.exe
+     1>Done Building Project "D:\PC Data\Lewis University\Videogame Programming\Asteroids\Sources\PC\Asteroids.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.67
